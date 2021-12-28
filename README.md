@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ndemafiawilsmith
 - 👀 I’m interested in programming and tech related topics
-- 🌱 I’m currently learning Java programming Language
-- 💞️ I’m looking to collaborate on software development
+- 🌱 I’m currently learning Java programming
+
+🐘 Php backend developer.
 - 📫 How to reach me fb.me/ndemafia or wilsmithndemafia@gmail.com
 
 <!---
