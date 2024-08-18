@@ -1,4 +1,12 @@
 - 👋 Hi, I’m @ndemafiawilsmith
+- <p align="left"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=ndemafiawilmsith&custom_title=JiSt's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="ndemafiawilsmith" />&nbsp;&nbsp;<img height="200px" src="./images/k4_sm.png"/>
+</p>
+
+![Profile views counter](https://komarev.com/ghpvc/?username=ndemafiawilsmith-git&style=flat-square)
+
+
+
 - 👀 I’m interested in programming and tech related topics
 - 🌱 I’m currently learning Java programming
 
