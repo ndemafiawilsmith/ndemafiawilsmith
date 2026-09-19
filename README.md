@@ -20,7 +20,7 @@
 
 ### 🛡️ About Me
 
-I am a security researcher and full-stack software engineer working both sides of the same problem. I specialize in finding critical access-control flaws in federal corporate registries, fintech infrastructure, and university platforms—one of which was officially validated by Nigeria's national CERT (**ngCERT / ONSA**) within 48 hours. 
+I am a security researcher and full-stack software engineer working both sides of the same problem. I specialize in finding critical access-control flaws in federal corporate registries, fintech infrastructure, and university platforms, one of which was officially validated by Nigeria's national CERT (**ngCERT / ONSA**) within 48 hours. 
 
 Simultaneously, I architect and build hardened, high-throughput web platforms that clients put their name on. When I build systems, the authorization model is tested before the first endpoint is ever exposed.
 
@@ -40,8 +40,8 @@ Simultaneously, I architect and build hardened, high-throughput web platforms th
 
 #### 🔐 Responsible Disclosure Practice
 1. **Minimum Necessary Access**: Enough evidence to prove the flaw exists and not one record more. Nothing retained, copied, or shared.
-2. **Private Report First**: The organization that owns the risk—or the relevant national CERT—hears about it before anyone else, with complete remediation guidance attached.
-3. **Publish Only What Is Safe**: Write-ups go live only after full remediation and describe vulnerability classes and architectural lessons—never endpoints, payloads, or exploit chains.
+2. **Private Report First**: The organization that owns the risk, or the relevant national CERT, hears about it before anyone else, with complete remediation guidance attached.
+3. **Publish Only What Is Safe**: Write-ups go live only after full remediation and describe vulnerability classes and architectural lessons, never endpoints, payloads, or exploit chains.
 
 ---
 
